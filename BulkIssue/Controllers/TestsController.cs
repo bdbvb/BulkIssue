@@ -46,7 +46,6 @@ public class TestsController : ControllerBase
             {
                 Id = id,
                 Value = "Tested",
-                RowVersion = new byte[] {1,2,3},
             },
         };
 
